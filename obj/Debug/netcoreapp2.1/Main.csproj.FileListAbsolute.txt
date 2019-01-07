@@ -1,0 +1,11 @@
+/home/andy/Documents/cdojo/c#/Main/bin/Debug/netcoreapp2.1/Main.deps.json
+/home/andy/Documents/cdojo/c#/Main/bin/Debug/netcoreapp2.1/Main.runtimeconfig.json
+/home/andy/Documents/cdojo/c#/Main/bin/Debug/netcoreapp2.1/Main.runtimeconfig.dev.json
+/home/andy/Documents/cdojo/c#/Main/bin/Debug/netcoreapp2.1/Main.dll
+/home/andy/Documents/cdojo/c#/Main/bin/Debug/netcoreapp2.1/Main.pdb
+/home/andy/Documents/cdojo/c#/Main/obj/Debug/netcoreapp2.1/Main.csprojAssemblyReference.cache
+/home/andy/Documents/cdojo/c#/Main/obj/Debug/netcoreapp2.1/Main.csproj.CoreCompileInputs.cache
+/home/andy/Documents/cdojo/c#/Main/obj/Debug/netcoreapp2.1/Main.AssemblyInfoInputs.cache
+/home/andy/Documents/cdojo/c#/Main/obj/Debug/netcoreapp2.1/Main.AssemblyInfo.cs
+/home/andy/Documents/cdojo/c#/Main/obj/Debug/netcoreapp2.1/Main.dll
+/home/andy/Documents/cdojo/c#/Main/obj/Debug/netcoreapp2.1/Main.pdb
